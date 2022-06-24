@@ -19,7 +19,7 @@ To see this from the view of user, use this login:
 Username: dachschund@gmail.com
 Password: ilovedogs678
 
-To see this from the view of an admin, use this login:
+To see this from the view of an admin, use this login: (We have to create a new admin acount since our school emails are being deleted. Will have this info soon!)
 
 Username:
 Password:
